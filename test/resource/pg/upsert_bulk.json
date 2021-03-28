@@ -1,0 +1,16 @@
+[
+    {
+        "account_id": 1,
+        "account": "UNIT_TEST1",
+        "password": "UNIT_TEST1",
+        "display_name": "UNIT_TEST1 display name",
+        "gender": "male"
+    },
+    {
+        "account_id": 2,
+        "account": "UNIT_TEST2",
+        "password": "UNIT_TEST2",
+        "display_name": "UNIT_TEST1 display name",
+        "gender": "male"
+    }
+]
